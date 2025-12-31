@@ -3,7 +3,6 @@
 Public marketing + investor landing for Woof.
 
 ## What this is
-- Static site (no framework, no backend)
 - Hosted on Vercel
 - Domain planned: \`woof.cool\`
 - Contact CTA: \`invest@woof.cool\`
